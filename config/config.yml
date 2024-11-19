@@ -1,0 +1,7 @@
+
+image_folder: "E:/Transfer/2024110503-环境/" # 原图文件夹路径，默认原图文件夹路径
+nfeatures: 500 # SIFT特征点数量
+gps_threshold: 0.1 # 经纬度地图重叠阈值
+similarity_threshold: 0.01 # 特征点匹配相似度阈值
+sensor_width: 22 # 摄像头传感器宽度，单位mm
+sensor_height: 22 # 摄像头传感器高度，单位mm

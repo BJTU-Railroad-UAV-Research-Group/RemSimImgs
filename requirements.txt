@@ -1,0 +1,7 @@
+pillow
+exif
+geopy
+shapely
+opencv-python
+numpy
+pathlib
